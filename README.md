@@ -1,6 +1,6 @@
 # Notebook
 
-Repository of tinkerings as Jupyter Notebook or things I want to remember.
+Repository of random scribblings as Jupyter Notebooks.
 
 ## Index
 
